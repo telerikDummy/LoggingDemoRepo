@@ -1,0 +1,24 @@
+2013-05-17 21:59:50,904 [11] DEBUG LoggingDemo Debug message
+2013-05-17 21:59:50,913 [11] INFO  LoggingDemo Info message
+2013-05-17 21:59:50,914 [11] WARN  LoggingDemo Warning message
+2013-05-17 21:59:50,914 [11] ERROR LoggingDemo Error message
+2013-05-17 21:59:50,915 [11] FATAL LoggingDemo Fatal message
+2013-05-17 21:59:50,921 [11] ERROR LoggingDemo Error.
+System.InvalidOperationException: An exception occurred.
+   at LoggingDemo.Main() in c:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Development Tools\VariousToolsUsage\Program.cs:line 27
+2013-05-17 22:08:49,767 [1] DEBUG LoggingDemo Debug message
+2013-05-17 22:08:49,777 [1] INFO  LoggingDemo Info message
+2013-05-17 22:08:49,777 [1] WARN  LoggingDemo Warning message
+2013-05-17 22:08:49,777 [1] ERROR LoggingDemo Error message
+2013-05-17 22:08:49,787 [1] FATAL LoggingDemo Fatal message
+2013-05-17 22:08:49,787 [1] ERROR LoggingDemo Error.
+System.InvalidOperationException: An exception occurred.
+   at LoggingDemo.Main() in c:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Development Tools\VariousToolsUsage\Program.cs:line 27
+2013-05-17 23:24:42,863 [1] DEBUG LoggingDemo Debug message
+2013-05-17 23:24:42,907 [1] INFO  LoggingDemo Info message
+2013-05-17 23:24:42,908 [1] WARN  LoggingDemo Warning message
+2013-05-17 23:24:42,908 [1] ERROR LoggingDemo Error message
+2013-05-17 23:24:42,909 [1] FATAL LoggingDemo Fatal message
+2013-05-17 23:24:42,909 [1] ERROR LoggingDemo Error.
+System.InvalidOperationException: An exception occurred.
+   at LoggingDemo.Main() in c:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Development Tools\VariousToolsUsage\LoggingDemo.cs:line 27
